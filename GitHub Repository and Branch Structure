@@ -1,3 +1,5 @@
+GitHub Repository and Branch Structure README
+
 Overview
 
 This README provides a detailed overview of the GitHub repository and branch structure for the Luci Digital platform. The repository is organized to facilitate collaboration, code management, deployment processes, and version control. The structure is designed to support CI/CD pipelines, ensure clear separation of concerns, and manage the various components of the platform such as AI, blockchain, LoRaWAN integration, and security protocols.
